@@ -1,3 +1,4 @@
 # Calculator app
-## by TrioMit
+
+## Description:
 This is a simple Calculator code, based on simple python. Used for simple calculations.
