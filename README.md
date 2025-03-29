@@ -1,6 +1,9 @@
 # 🧮 Calculator app
 
 ## Table of Contents
-  - [Introduction](#Introduction)
+  - [Introduction](#sjkdkfjnskjdnfkjsd)
   - [Languages used](#Languages)
   - [How to run](#run)
+
+## Introduction
+
