@@ -1,4 +1,6 @@
 # 🧮 Calculator app
 
-## Description:
-This is a simple Calculator code, based on simple python. Used for simple calculations.
+## Table of Contents
+  - [Introduction](#Introduction)
+  - [Languages used](#Languages)
+  - [How to run](#run)
