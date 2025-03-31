@@ -10,7 +10,7 @@
 This is a simple Calculator, coded using the Python language. Basic calculations can be done using this; serial wise operations allowed and not following the BODMAS rule. Just like in calculator, we enter the number, followed by the operator and the further numbers. The "=" button is pressed to equate the series of calcuations.
 
 
-## Langugae used
+## Tools used
 🐍 Python
 
 ## How to run
